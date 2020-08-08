@@ -11,7 +11,7 @@ features = "C:\\Users\\PURSUITUSER\\eclipse-workspace\\cucumberfirstproject\\src
 ,monochrome= true
 ,plugin = {"pretty", "html:html_report"}
 ,strict = true
-,dryRun = false
+,dryRun = true
 )
 
 public class Runner {
