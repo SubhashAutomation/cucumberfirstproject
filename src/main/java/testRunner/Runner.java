@@ -10,7 +10,7 @@ features = "C:\\Users\\PURSUITUSER\\eclipse-workspace\\cucumberfirstproject\\src
 ,glue= {"stepDefinitions"}
 ,monochrome= true
 ,plugin = {"pretty", "html:html_report"}
-,strict = true
+,strict = false
 ,dryRun = true
 )
 
